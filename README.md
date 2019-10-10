@@ -1,2 +1,2 @@
 # aula_jupyter
-Aula sobre o Jupyter
+Exercícios - Jupyter
